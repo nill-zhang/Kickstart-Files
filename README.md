@@ -1,2 +1,1 @@
-# Kickstart_Files
-centos rhel fedora kickstart files
+some linux stuff, primarily RHEL,CentOS
